@@ -1,0 +1,3 @@
+C:\sonar-scanner-3.1.0.1141-windows\bin\
+
+sonar-scanner.bat -Dsonar.projectKey=execiciosfarrerpython -Dsonar.organization=wilhsms-github -Dsonar.sources=. -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=a2867deae711d0d426f1a7b2199c1f40fac65447
