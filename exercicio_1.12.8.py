@@ -15,7 +15,7 @@ def main():
     contadorSim = 0; contadorNao = 0; contadorFemininoSim = 0; contadorMasculinoNao = 0
     percentualFemininoSim = 0.0; percentualMasculinoNao = 0.0
 
-    for pessoa in range(2):
+    for pessoa in range(2000):
         print("---------------------------------------------------------------------------------------")
         print("Entrevistado [%d]" % (pessoa + 1))
         
